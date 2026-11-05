@@ -2,6 +2,7 @@
 - This is a Mobile Application Development and AI course project.
 - This project includes a RESTFul Flutter application with a Django Backend.
 - We were allowed the use of agents for this project by our course instructor so we did.
+- The 2 AI models for the palatte_based folder and calorie_based folder will be uploaded later on to a separate google drive folder because of size restrictions.
 
 ## Table of Contents
 
@@ -42,3 +43,4 @@
 
 ## Credits
 - This project was coded in collaboration with my university group member. GitHub: https://github.com/Hamza2-2
+- Dataset sourced from https://www.kaggle.com/datasets/elisaxxygao/foodrecsysv1
